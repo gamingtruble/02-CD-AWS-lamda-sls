@@ -127,6 +127,11 @@ REPORT RequestId: d37e4849-b175-4fa6-aa4b-0031af6f41a0  Init Duration: 0.42 ms  
 * Ta en ekstra kikk på event.json. Dette er objektet AWS Lambda får av tjenesten API Gateway .
 * Forsøke å endre teksten i "Body" delen av event.json - klarer å å endre sentimentet til positivt ?
 
+![Selection_013](https://github.com/gamingtruble/02-CD-AWS-lamda-sls/assets/56083504/de2d4dc3-9422-4c40-9807-56d2315374b5)
+
+
+![Selection_014](https://github.com/gamingtruble/02-CD-AWS-lamda-sls/assets/56083504/6f4a6361-8c69-4ed1-8250-3795c5eb23d2)
+
 ## Deploy med SAM fra Cloud 9
 
 * Du kan også bruke SAM til å deploye lambdafunksjonen rett fra Cloud 9 
